@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Fighter Forge Deluxe</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="panel">
+        <header>
+          <h1>AI Fighter Forge Deluxe</h1>
+          <p>Create both fighters from prompts, then battle in a Smash-like 2D arena.</p>
+        </header>
+
+        <section class="prompt-grid">
+          <div class="prompt-card">
+            <h2>Player prompt</h2>
+            <textarea id="playerPrompt" rows="5" placeholder="Example: plasma samurai fox with neon jacket and fast aerial combos"></textarea>
+          </div>
+          <div class="prompt-card">
+            <h2>Enemy prompt</h2>
+            <textarea id="enemyPrompt" rows="5" placeholder="Example: stone golem boxer with heavy punches and high defense"></textarea>
+          </div>
+        </section>
+
+        <section class="controls">
+          <button id="generateBtn">Generate Fighters</button>
+          <button id="randomBtn" class="secondary">Random Prompts</button>
+          <button id="resetBtn" class="secondary">Reset Match</button>
+          <button id="pauseBtn" class="secondary">Pause</button>
+        </section>
+
+        <section class="toggles">
+          <label><input type="checkbox" id="assistAim" checked /> Aim Assist</label>
+          <label><input type="checkbox" id="showHitboxes" /> Show Hitboxes</label>
+          <label>
+            Bot difficulty
+            <input id="botDifficulty" type="range" min="1" max="10" value="6" />
+          </label>
+        </section>
+
+        <section class="hints">
+          <strong>Controls:</strong>
+          <span><kbd>A</kbd><kbd>D</kbd> move</span>
+          <span><kbd>W</kbd> jump</span>
+          <span><kbd>J</kbd> light</span>
+          <span><kbd>K</kbd> heavy</span>
+          <span><kbd>L</kbd> special</span>
+          <span><kbd>Shift</kbd> block</span>
+        </section>
+
+        <section class="io-row">
+          <button id="exportBtn" class="secondary">Export Match JSON</button>
+          <label class="import-label">
+            Import JSON
+            <input id="importInput" type="file" accept="application/json" />
+          </label>
+        </section>
+
+        <section class="io-row sprite-loader-row">
+          <select id="sheetCharacterSelect" class="sheet-select">
+            <option value="sora_kh1">Sora (KH1)</option>
+            <option value="riku_kh2">Riku</option>
+            <option value="gojo">Gojo</option>
+            <option value="goku">Goku</option>
+            <option value="marluxia">Marluxia</option>
+            <option value="rogue">Rogue Swordsman</option>
+            <option value="mage">Blonde Mage</option>
+          </select>
+          <label class="import-label">
+            Load Character Sheet
+            <input id="characterSheetInput" type="file" accept="image/png,image/jpeg,image/webp" />
+          </label>
+        </section>
+
+        <section class="io-row">
+          <button id="clearCustomPackBtn" class="secondary">Use Built-in Packs</button>
+          <div class="small-note">Prompt with character name to use loaded pack.</div>
+        </section>
+
+        <h2>Generation output</h2>
+        <pre id="manifest"></pre>
+      </aside>
+
+      <main class="stage-wrap">
+        <canvas id="stage" width="1280" height="720"></canvas>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

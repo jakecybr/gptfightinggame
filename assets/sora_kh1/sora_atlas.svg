@@ -1,0 +1,1154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7200" height="128" viewBox="0 0 7200 128">
+<rect x="35.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="51.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="30.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="53.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="33.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="34.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="61.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="25.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="70.0" y1="54.0" x2="90.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="88.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="48.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="36.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="33.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="58.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="50.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="131.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="147.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="126.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="149.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="129.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="130.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="157.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="121.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="166.0" y1="54.0" x2="186.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="184.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="144.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="132.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="129.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="154.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="146.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="227.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="243.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="222.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="245.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="225.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="226.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="253.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="217.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="262.0" y1="54.0" x2="282.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="280.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="240.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="228.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="225.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="250.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="242.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="323.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="339.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="318.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="341.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="321.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="322.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="349.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="313.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="358.0" y1="54.0" x2="378.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="376.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="336.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="324.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="321.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="346.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="338.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="419.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="435.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="414.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="437.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="417.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="418.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="445.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="409.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="454.0" y1="54.0" x2="474.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="472.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="432.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="420.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="417.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="442.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="434.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="515.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="531.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="510.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="533.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="513.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="514.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="541.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="505.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="550.0" y1="54.0" x2="570.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="568.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="528.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="516.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="513.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="538.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="530.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="611.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="627.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="606.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="629.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="609.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="610.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="637.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="601.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="646.0" y1="54.0" x2="666.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="664.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="624.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="612.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="609.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="634.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="626.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="707.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="723.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="702.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="725.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="705.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="706.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="733.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="697.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="742.0" y1="54.0" x2="762.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="760.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="720.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="708.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="705.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="730.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="722.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="803.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="819.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="798.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="821.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="801.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="802.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="829.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="793.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="838.0" y1="54.0" x2="858.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="856.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="816.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="804.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="801.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="826.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="818.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="899.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="915.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="894.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="917.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="897.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="898.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="925.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="889.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="934.0" y1="54.0" x2="954.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="952.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="912.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="900.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="897.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="922.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="914.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="993.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1012.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="990.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1013.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="993.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="994.0" y="44.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1021.0" y="53.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="985.0" y="53.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1030.0" y1="56.0" x2="1050.0" y2="56.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1048.0" y="52.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1008.0" cy="34.0" r="10.0" fill="#f2cf9b" />
+<rect x="996.0" y="22.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="993.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1018.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1010.0" y="32.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1092.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1105.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1086.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1109.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1089.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1090.0" y="41.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1117.0" y="50.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1081.0" y="50.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1126.0" y1="53.0" x2="1146.0" y2="53.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1144.0" y="49.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1104.0" cy="31.0" r="10.0" fill="#f2cf9b" />
+<rect x="1092.0" y="19.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1089.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1114.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1106.0" y="29.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1185.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1204.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1182.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1205.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1185.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1186.0" y="44.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1213.0" y="53.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1177.0" y="53.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1222.0" y1="56.0" x2="1242.0" y2="56.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1240.0" y="52.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1200.0" cy="34.0" r="10.0" fill="#f2cf9b" />
+<rect x="1188.0" y="22.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1185.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1210.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1202.0" y="32.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1284.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1297.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1278.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1301.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1281.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1282.0" y="41.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1309.0" y="50.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1273.0" y="50.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1318.0" y1="53.0" x2="1338.0" y2="53.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1336.0" y="49.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1296.0" cy="31.0" r="10.0" fill="#f2cf9b" />
+<rect x="1284.0" y="19.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1281.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1306.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1298.0" y="29.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1377.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1396.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1374.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1397.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1377.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1378.0" y="44.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1405.0" y="53.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1369.0" y="53.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1414.0" y1="56.0" x2="1434.0" y2="56.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1432.0" y="52.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1392.0" cy="34.0" r="10.0" fill="#f2cf9b" />
+<rect x="1380.0" y="22.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1377.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1402.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1394.0" y="32.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1476.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1489.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1470.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1493.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1473.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1474.0" y="41.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1501.0" y="50.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1465.0" y="50.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1510.0" y1="53.0" x2="1530.0" y2="53.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1528.0" y="49.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1488.0" cy="31.0" r="10.0" fill="#f2cf9b" />
+<rect x="1476.0" y="19.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1473.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1498.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1490.0" y="29.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1569.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1588.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1566.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1589.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1569.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1570.0" y="44.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1597.0" y="53.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1561.0" y="53.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1606.0" y1="56.0" x2="1626.0" y2="56.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1624.0" y="52.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1584.0" cy="34.0" r="10.0" fill="#f2cf9b" />
+<rect x="1572.0" y="22.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1569.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1594.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1586.0" y="32.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1668.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1681.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1662.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1685.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1665.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1666.0" y="41.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1693.0" y="50.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1657.0" y="50.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1702.0" y1="53.0" x2="1722.0" y2="53.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1720.0" y="49.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1680.0" cy="31.0" r="10.0" fill="#f2cf9b" />
+<rect x="1668.0" y="19.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1665.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1690.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1682.0" y="29.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1761.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1780.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1758.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1781.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1761.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1762.0" y="44.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1789.0" y="53.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1753.0" y="53.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1798.0" y1="56.0" x2="1818.0" y2="56.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1816.0" y="52.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1776.0" cy="34.0" r="10.0" fill="#f2cf9b" />
+<rect x="1764.0" y="22.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1761.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1786.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1778.0" y="32.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1860.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1873.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1854.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1877.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1857.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1858.0" y="41.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1885.0" y="50.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1849.0" y="50.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1894.0" y1="53.0" x2="1914.0" y2="53.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="1912.0" y="49.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1872.0" cy="31.0" r="10.0" fill="#f2cf9b" />
+<rect x="1860.0" y="19.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1857.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1882.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1874.0" y="29.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="1953.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1972.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="1950.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1973.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="1953.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="1954.0" y="44.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="1981.0" y="53.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="1945.0" y="53.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="1990.0" y1="56.0" x2="2010.0" y2="56.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2008.0" y="52.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="1968.0" cy="34.0" r="10.0" fill="#f2cf9b" />
+<rect x="1956.0" y="22.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="1953.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1978.0" y="26.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="1970.0" y="32.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2052.6" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2065.4" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2046.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2069.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2049.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2050.0" y="41.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2077.0" y="50.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="2041.0" y="50.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2086.0" y1="53.0" x2="2106.0" y2="53.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2104.0" y="49.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2064.0" cy="31.0" r="10.0" fill="#f2cf9b" />
+<rect x="2052.0" y="19.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2049.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2074.0" y="23.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2066.0" y="29.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2147.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2163.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2142.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2165.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2145.0" y="62.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2146.0" y="32.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2173.0" y="41.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="2137.0" y="41.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2182.0" y1="44.0" x2="2202.0" y2="44.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2200.0" y="40.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2160.0" cy="22.0" r="10.0" fill="#f2cf9b" />
+<rect x="2148.0" y="10.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2145.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2170.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2162.0" y="20.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2243.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2259.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2238.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2261.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2241.0" y="62.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2242.0" y="32.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2269.0" y="41.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="2233.0" y="41.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2278.0" y1="44.0" x2="2298.0" y2="44.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2296.0" y="40.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2256.0" cy="22.0" r="10.0" fill="#f2cf9b" />
+<rect x="2244.0" y="10.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2241.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2266.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2258.0" y="20.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2339.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2355.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2334.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2357.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2337.0" y="62.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2338.0" y="32.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2365.0" y="41.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="2329.0" y="41.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2374.0" y1="44.0" x2="2394.0" y2="44.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2392.0" y="40.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2352.0" cy="22.0" r="10.0" fill="#f2cf9b" />
+<rect x="2340.0" y="10.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2337.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2362.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2354.0" y="20.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2435.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2451.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2430.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2453.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2433.0" y="62.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2434.0" y="32.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2461.0" y="41.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="2425.0" y="41.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2470.0" y1="44.0" x2="2490.0" y2="44.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2488.0" y="40.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2448.0" cy="22.0" r="10.0" fill="#f2cf9b" />
+<rect x="2436.0" y="10.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2433.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2458.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2450.0" y="20.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2531.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2547.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2526.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2549.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2529.0" y="62.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2530.0" y="32.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2557.0" y="41.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="2521.0" y="41.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2566.0" y1="44.0" x2="2586.0" y2="44.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2584.0" y="40.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2544.0" cy="22.0" r="10.0" fill="#f2cf9b" />
+<rect x="2532.0" y="10.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2529.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2554.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2546.0" y="20.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2627.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2643.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2622.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2645.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2625.0" y="62.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2626.0" y="32.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2653.0" y="41.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="2617.0" y="41.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2662.0" y1="44.0" x2="2682.0" y2="44.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2680.0" y="40.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2640.0" cy="22.0" r="10.0" fill="#f2cf9b" />
+<rect x="2628.0" y="10.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2625.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2650.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2642.0" y="20.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2723.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2739.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2718.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2741.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2721.0" y="62.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2722.0" y="32.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2749.0" y="41.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="2713.0" y="41.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2758.0" y1="44.0" x2="2778.0" y2="44.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2776.0" y="40.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2736.0" cy="22.0" r="10.0" fill="#f2cf9b" />
+<rect x="2724.0" y="10.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2721.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2746.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2738.0" y="20.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2819.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2835.0" y="84.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2814.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2837.0" y="101.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2817.0" y="62.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2818.0" y="32.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2845.0" y="41.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="2809.0" y="41.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2854.0" y1="44.0" x2="2874.0" y2="44.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2872.0" y="40.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2832.0" cy="22.0" r="10.0" fill="#f2cf9b" />
+<rect x="2820.0" y="10.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2817.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2842.0" y="14.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2834.0" y="20.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="2915.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2931.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="2910.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2933.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="2913.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="2914.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="2941.0" y="51.0" width="14.0" height="7.0" fill="#f2cf9b" />
+<rect x="2905.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="2956.0" y1="54.0" x2="2976.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="2974.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="2928.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="2916.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="2913.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2938.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="2930.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3011.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3027.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3006.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3029.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3009.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3010.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3037.0" y="51.0" width="14.0" height="7.0" fill="#f2cf9b" />
+<rect x="3001.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3052.0" y1="54.0" x2="3072.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3070.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3024.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3012.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3009.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3034.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3026.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3107.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3123.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3102.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3125.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3105.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3106.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3133.0" y="51.0" width="14.0" height="7.0" fill="#f2cf9b" />
+<rect x="3097.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3148.0" y1="54.0" x2="3168.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3166.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3120.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3108.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3105.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3130.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3122.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3203.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3219.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3198.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3221.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3201.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3202.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3229.0" y="51.0" width="14.0" height="7.0" fill="#f2cf9b" />
+<rect x="3193.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3244.0" y1="54.0" x2="3264.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3262.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3216.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3204.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3201.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3226.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3218.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3299.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3315.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3294.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3317.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3297.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3298.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3325.0" y="51.0" width="14.0" height="7.0" fill="#f2cf9b" />
+<rect x="3289.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3340.0" y1="54.0" x2="3360.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3358.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3312.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3300.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3297.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3322.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3314.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3395.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3411.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3390.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3413.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3393.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3394.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3421.0" y="51.0" width="14.0" height="7.0" fill="#f2cf9b" />
+<rect x="3385.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3436.0" y1="54.0" x2="3456.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3454.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3408.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3396.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3393.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3418.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3410.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3491.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3507.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3486.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3509.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3489.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3490.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3517.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="3481.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3538.0" y1="54.0" x2="3566.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3564.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3504.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3492.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3489.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3514.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3506.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3587.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3603.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3582.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3605.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3585.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3586.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3613.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="3577.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3634.0" y1="54.0" x2="3662.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3660.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3600.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3588.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3585.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3610.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3602.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3683.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3699.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3678.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3701.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3681.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3682.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3709.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="3673.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3730.0" y1="54.0" x2="3758.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3756.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3696.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3684.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3681.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3706.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3698.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3779.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3795.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3774.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3797.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3777.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3778.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3805.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="3769.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3826.0" y1="54.0" x2="3854.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3852.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3792.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3780.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3777.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3802.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3794.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3875.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3891.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3870.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3893.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3873.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3874.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3901.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="3865.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="3922.0" y1="54.0" x2="3950.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="3948.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3888.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3876.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3873.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3898.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3890.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="3971.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3987.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="3966.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3989.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="3969.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="3970.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="3997.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="3961.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4018.0" y1="54.0" x2="4046.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4044.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="3984.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="3972.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="3969.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3994.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="3986.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="4067.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4083.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4062.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4085.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4065.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4066.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4093.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4057.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4114.0" y1="54.0" x2="4142.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4140.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4080.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4068.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4065.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4090.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4082.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="4163.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4179.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4158.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4181.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4161.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4162.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4189.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4153.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4210.0" y1="54.0" x2="4238.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4236.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4176.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4164.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4161.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4186.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4178.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="4259.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4275.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4254.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4277.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4257.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4258.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4285.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4249.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4306.0" y1="54.0" x2="4334.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4332.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4272.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4260.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4257.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4282.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4274.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="4355.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4371.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4350.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4373.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4353.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4354.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4381.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4345.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4402.0" y1="54.0" x2="4430.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4428.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4368.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4356.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4353.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4378.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4370.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="4451.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4467.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4446.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4469.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4449.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4450.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4477.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4441.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4498.0" y1="54.0" x2="4526.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4524.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4464.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4452.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4449.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4474.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4466.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="4547.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4563.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4542.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4565.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4545.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4546.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4573.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4537.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4594.0" y1="54.0" x2="4622.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4620.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4560.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4548.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4545.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4570.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4562.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="4674.0" cy="44.0" r="10.0" fill="#84e7ff66" />
+<rect x="4643.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4659.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4638.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4661.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4641.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4642.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4669.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4633.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4690.0" y1="54.0" x2="4718.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4716.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4656.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4644.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4641.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4666.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4658.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="4770.0" cy="44.0" r="11.0" fill="#84e7ff66" />
+<rect x="4739.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4755.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4734.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4757.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4737.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4738.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4765.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4729.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4786.0" y1="54.0" x2="4814.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4812.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4752.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4740.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4737.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4762.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4754.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="4866.0" cy="44.0" r="12.0" fill="#84e7ff66" />
+<rect x="4835.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4851.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4830.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4853.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4833.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4834.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4861.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4825.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4882.0" y1="54.0" x2="4910.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="4908.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4848.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4836.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4833.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4858.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4850.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="4962.0" cy="44.0" r="10.0" fill="#84e7ff66" />
+<rect x="4931.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4947.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="4926.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4949.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="4929.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="4930.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="4957.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="4921.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="4978.0" y1="54.0" x2="5006.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5004.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="4944.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="4932.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="4929.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4954.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="4946.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5058.0" cy="44.0" r="11.0" fill="#84e7ff66" />
+<rect x="5027.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5043.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5022.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5045.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5025.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5026.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5053.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5017.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5074.0" y1="54.0" x2="5102.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5100.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5040.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5028.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5025.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5050.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5042.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5154.0" cy="44.0" r="12.0" fill="#84e7ff66" />
+<rect x="5123.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5139.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5118.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5141.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5121.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5122.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5149.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5113.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5170.0" y1="54.0" x2="5198.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5196.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5136.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5124.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5121.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5146.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5138.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5250.0" cy="44.0" r="10.0" fill="#84e7ff66" />
+<rect x="5219.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5235.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5214.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5237.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5217.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5218.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5245.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5209.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5266.0" y1="54.0" x2="5294.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5292.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5232.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5220.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5217.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5242.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5234.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5346.0" cy="44.0" r="11.0" fill="#84e7ff66" />
+<rect x="5315.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5331.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5310.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5333.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5313.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5314.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5341.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5305.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5362.0" y1="54.0" x2="5390.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5388.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5328.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5316.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5313.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5338.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5330.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5442.0" cy="44.0" r="12.0" fill="#84e7ff66" />
+<rect x="5411.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5427.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5406.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5429.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5409.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5410.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5437.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5401.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5458.0" y1="54.0" x2="5486.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5484.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5424.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5412.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5409.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5434.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5426.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5538.0" cy="44.0" r="10.0" fill="#84e7ff66" />
+<rect x="5507.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5523.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5502.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5525.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5505.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5506.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5533.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5497.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5554.0" y1="54.0" x2="5582.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5580.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5520.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5508.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5505.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5530.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5522.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5634.0" cy="44.0" r="11.0" fill="#84e7ff66" />
+<rect x="5603.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5619.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5598.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5621.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5601.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5602.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5629.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5593.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5650.0" y1="54.0" x2="5678.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5676.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5616.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5604.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5601.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5626.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5618.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5730.0" cy="44.0" r="12.0" fill="#84e7ff66" />
+<rect x="5699.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5715.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5694.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5717.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5697.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5698.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5725.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5689.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5746.0" y1="54.0" x2="5774.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5772.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5712.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5700.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5697.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5722.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5714.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5826.0" cy="44.0" r="10.0" fill="#84e7ff66" />
+<rect x="5795.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5811.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5790.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5813.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5793.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5794.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5821.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5785.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5842.0" y1="54.0" x2="5870.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5868.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5808.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5796.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5793.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5818.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5810.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="5922.0" cy="44.0" r="11.0" fill="#84e7ff66" />
+<rect x="5891.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5907.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5886.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5909.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5889.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5890.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="5917.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5881.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="5938.0" y1="54.0" x2="5966.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="5964.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="5904.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5892.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5889.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5914.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="5906.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="6018.0" cy="44.0" r="12.0" fill="#84e7ff66" />
+<rect x="5987.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6003.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="5982.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6005.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="5985.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="5986.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6013.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="5977.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6034.0" y1="54.0" x2="6062.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6060.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6000.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="5988.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="5985.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6010.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6002.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="6114.0" cy="44.0" r="10.0" fill="#84e7ff66" />
+<rect x="6083.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6099.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6078.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6101.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6081.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6082.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6109.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="6073.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6130.0" y1="54.0" x2="6158.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6156.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6096.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6084.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6081.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6106.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6098.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="6210.0" cy="44.0" r="11.0" fill="#84e7ff66" />
+<rect x="6179.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6195.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6174.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6197.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6177.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6178.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6205.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="6169.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6226.0" y1="54.0" x2="6254.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6252.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6192.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6180.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6177.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6202.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6194.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<circle cx="6306.0" cy="44.0" r="12.0" fill="#84e7ff66" />
+<rect x="6275.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6291.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6270.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6293.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6273.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6274.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6301.0" y="51.0" width="20.0" height="7.0" fill="#f2cf9b" />
+<rect x="6265.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6322.0" y1="54.0" x2="6350.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6348.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6288.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6276.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6273.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6298.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6290.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="6371.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6387.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6366.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6389.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6369.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6370.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6397.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<rect x="6361.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6408.0" y1="54.0" x2="6428.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6426.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6384.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6372.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6369.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6394.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6386.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="6404.0" y="42.0" width="10.0" height="20.0" fill="#5ec6ff88" />
+<rect x="6467.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6483.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6462.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6485.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6465.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6466.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6493.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<rect x="6457.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6504.0" y1="54.0" x2="6524.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6522.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6480.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6468.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6465.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6490.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6482.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="6500.0" y="42.0" width="10.0" height="20.0" fill="#5ec6ff88" />
+<rect x="6563.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6579.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6558.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6581.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6561.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6562.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6589.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<rect x="6553.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6600.0" y1="54.0" x2="6620.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6618.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6576.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6564.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6561.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6586.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6578.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="6596.0" y="42.0" width="10.0" height="20.0" fill="#5ec6ff88" />
+<rect x="6659.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6675.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6654.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6677.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6657.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6658.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6685.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<rect x="6649.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6696.0" y1="54.0" x2="6716.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6714.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6672.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6660.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6657.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6682.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6674.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<rect x="6692.0" y="42.0" width="10.0" height="20.0" fill="#5ec6ff88" />
+<rect x="6755.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6771.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6750.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6773.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6753.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6754.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6781.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="6745.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6790.0" y1="54.0" x2="6810.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6808.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6768.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6756.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6753.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6778.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6770.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<line x1="6760.0" y1="18.0" x2="6782.0" y2="8.0" stroke="#ffcc88" stroke-width="2" stroke-linecap="round" />
+<rect x="6851.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6867.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6846.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6869.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6849.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6850.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6877.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="6841.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6886.0" y1="54.0" x2="6906.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="6904.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6864.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6852.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6849.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6874.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6866.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<line x1="6856.0" y1="18.0" x2="6878.0" y2="8.0" stroke="#ffcc88" stroke-width="2" stroke-linecap="round" />
+<rect x="6947.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6963.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="6942.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6965.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="6945.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="6946.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="6973.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="6937.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="6982.0" y1="54.0" x2="7002.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="7000.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="6960.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="6948.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="6945.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6970.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="6962.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<line x1="6952.0" y1="18.0" x2="6974.0" y2="8.0" stroke="#ffcc88" stroke-width="2" stroke-linecap="round" />
+<rect x="7043.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="7059.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="7038.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="7061.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="7041.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="7042.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="7069.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="7033.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="7078.0" y1="54.0" x2="7098.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="7096.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="7056.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="7044.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="7041.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="7066.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="7058.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<line x1="7048.0" y1="18.0" x2="7070.0" y2="8.0" stroke="#ffcc88" stroke-width="2" stroke-linecap="round" />
+<rect x="7139.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="7155.0" y="94.0" width="10.0" height="20.0" fill="#e2e6ff" />
+<rect x="7134.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="7157.0" y="111.0" width="14.0" height="6.0" fill="#f4ca4d" />
+<rect x="7137.0" y="72.0" width="30.0" height="22.0" fill="#d9363e" />
+<rect x="7138.0" y="42.0" width="28.0" height="32.0" fill="#1c2238" />
+<rect x="7165.0" y="51.0" width="8.0" height="7.0" fill="#f2cf9b" />
+<rect x="7129.0" y="51.0" width="10.0" height="7.0" fill="#f2cf9b" />
+<line x1="7174.0" y1="54.0" x2="7194.0" y2="54.0" stroke="#e8edf9" stroke-width="3" stroke-linecap="round" />
+<rect x="7192.0" y="50.0" width="6.0" height="8.0" fill="#f4ca4d" />
+<circle cx="7152.0" cy="32.0" r="10.0" fill="#f2cf9b" />
+<rect x="7140.0" y="20.0" width="24.0" height="6.0" fill="#7d4a1f" />
+<rect x="7137.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="7162.0" y="24.0" width="5.0" height="6.0" fill="#7d4a1f" />
+<rect x="7154.0" y="30.0" width="4.0" height="2.0" fill="#2e90ff" />
+<line x1="7144.0" y1="18.0" x2="7166.0" y2="8.0" stroke="#ffcc88" stroke-width="2" stroke-linecap="round" />
+</svg>
