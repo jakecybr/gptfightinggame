@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Fighter Forge</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="layout">
+      <aside class="panel">
+        <h1>AI Fighter Forge</h1>
+        <p>
+          Describe a fighter and the app generates a character profile, sprite style,
+          and a basic animation set.
+        </p>
+
+        <label for="prompt">Character prompt</label>
+        <textarea id="prompt" rows="7" placeholder="Example: cyber ninja with teal scarf, fast kicks, short sword"></textarea>
+
+        <button id="generateBtn">Generate Fighter</button>
+
+        <div class="hint">
+          Controls: <kbd>A</kbd><kbd>D</kbd> move,
+          <kbd>W</kbd> jump,
+          <kbd>J</kbd> light attack,
+          <kbd>K</kbd> heavy attack.
+        </div>
+
+        <h2>Generated fighter data</h2>
+        <pre id="manifest">No fighter generated yet.</pre>
+      </aside>
+
+      <main class="stage-wrap">
+        <canvas id="stage" width="960" height="540"></canvas>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
